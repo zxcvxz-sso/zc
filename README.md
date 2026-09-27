@@ -1,5 +1,5 @@
 npm init -y
-npm install discord.js @discordjs/voice dotenv# music-bot/
+ music-bot/
 ├── commands/
 │   ├── play.js
 │   ├── skip.js
